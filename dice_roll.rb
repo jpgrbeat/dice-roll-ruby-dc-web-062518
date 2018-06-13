@@ -4,4 +4,5 @@
 
 def roll
   dice = prng.rand(1..6)
+  dice
 end
